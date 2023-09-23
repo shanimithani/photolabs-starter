@@ -8,14 +8,15 @@ The PhotoLabs project for the Web Development React course programming. This web
 
 ## Specifications
 
+This web app uses:
 - React
 - Create React App
 - Webpack
 - Babel
 - Express
--- The data layer consists of PostgreSQL database
--- The API server consists of a Node Express.js server application
--- The client will communicate with the API over HTTP using the JSON format
+- The data layer consists of PostgreSQL database
+- The API server consists of a Node Express.js server application
+- The client will communicate with the API over HTTP using the JSON format
 
 ## Setup
 
