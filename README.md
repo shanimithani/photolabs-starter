@@ -1,7 +1,19 @@
 # react-photolabs
-The PhotoLabs project for the Web Development React course programming.
+The PhotoLabs project for the Web Development React course programming. It displays favoritable photos in a feed that are pulled from a back end and can be expanded or filtered by topic. 
 
-# Photolabs
+##Screenshots
+![Screen Shot 2023-09-23 at 1 00 02 PM](https://github.com/shanimithani/photolabs-starter/assets/10202231/0dd0c2af-4c47-4fb0-9af5-513129299315)
+![Screen Shot 2023-09-23 at 1 01 22 PM](https://github.com/shanimithani/photolabs-starter/assets/10202231/66212708-6092-400b-ac16-71bdf59e7140)
+
+##Technical Specifications with API References
+- React
+- Create React App
+- Webpack
+- Babel
+- Express
+-- The data layer consists of PostgreSQL database
+-- The API server consists of a Node Express.js server application
+-- The client will communicate with the API over HTTP using the JSON format
 
 ## Setup
 
