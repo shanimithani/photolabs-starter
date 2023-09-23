@@ -1,5 +1,5 @@
 # Photolabs (React)
-The PhotoLabs project for the Web Development React course programming. It displays favoritable photos in a feed that are pulled from a back end and can be expanded or filtered by topic. 
+The PhotoLabs project for the Web Development React course programming. This web app pulls favouritable photos from a backend that can be expanded into a modal or filtered by topic. 
 
 ## Screenshots
 
